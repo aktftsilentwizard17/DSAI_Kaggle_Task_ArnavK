@@ -1,9 +1,9 @@
 # DSAI Club Induction 2026 — SY Task Round (Toxic Comment Classification)
 
 ## Name & Branch
-- **Name:** Arnav Katepallewar
+- **Name:** Arnav Manish Katepallewar
 - **Branch:** CSE
-- **Result:** public leaderboard mean ROC AUC **0.98775**; **990,006** trainable parameters (limit 1M)
+- **Result:** Public leaderboard mean ROC AUC **0.98775**; **990,006** trainable parameters (limit 1M)
 
 ## Model Architecture & Core Idea
 - **Preprocessing:** raw text, no heavy cleaning; TF-IDF with sublinear term frequency, accents stripped, lowercased
